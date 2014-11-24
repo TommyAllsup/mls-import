@@ -1,6 +1,6 @@
 {
   "name": "mls-import",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Library for reading MLS flat files and parsing into javascript objects",
   "main": "index.js",
   "scripts": {
